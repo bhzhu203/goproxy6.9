@@ -3,7 +3,7 @@ package main
 import (
 	"C"
 
-	sdk "github.com/snail007/goproxy/sdk/android-ios"
+	sdk "github.com/bhzhu203/goproxy6.9/sdk/android-ios"
 )
 
 //export Start

@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	socks5c "github.com/snail007/goproxy/core/lib/socks5"
+	socks5c "github.com/bhzhu203/goproxy6.9/core/lib/socks5"
 )
 
 type Dialer struct {
